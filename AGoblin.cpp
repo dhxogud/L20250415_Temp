@@ -1,6 +1,6 @@
 #include "AGoblin.h"
 
-void Move(int X, int Y)
+void AGoblin::Move(int X, int Y)
 {
 	// 고블린의 움직임 = 뛰어다닌다
 }
