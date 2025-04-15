@@ -36,6 +36,9 @@
     <ClCompile Include="ABoar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="UWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AActor.h">
@@ -54,6 +57,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ABoar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UWorld.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
